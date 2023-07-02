@@ -1,4 +1,3 @@
-![Image](https://skdevops.files.wordpress.com/2022/07/65.image-1.png)
 ## Motivation
 My objectives was to create an application load balancer and attach that to three EC2 instances hosted in three different availability zones in a region using Terraform.
 
