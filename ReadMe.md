@@ -16,5 +16,3 @@ Ensure that the IAM user whose credentials are being used in this configuration 
 <br />Next, run `terraform init` 
 <br />Then run `terraform plan`
 <br />And finally run `terraform apply`
-
-test
